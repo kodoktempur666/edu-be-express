@@ -1,0 +1,1 @@
+ALTER TABLE "teachers" ADD COLUMN "user_verified" boolean DEFAULT false NOT NULL;
